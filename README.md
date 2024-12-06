@@ -69,7 +69,6 @@
 
 <br>
 
-![𝚐𝚒𝚝𝚑𝚞𝚋 𝚐𝚛𝚊𝚙𝚑](https://github-readme-activity-graph.vercel.app/graph?username=MithuniKarunathilake&theme=react-dark&hide_border=true&area=true)
 
 </details>
 
